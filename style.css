@@ -1,0 +1,151 @@
+html, body{height: 100%;}
+
+
+
+
+.gmailetimages{font-family: arial,sans serif; font-size: 13px;}
+
+.nav
+		{display: flex; 
+		justify-content: flex-end;
+		padding: 12px;
+	}
+
+.gmailetimages
+		{display: flex; 
+		padding-right: 15px;
+		margin-top: 8px;}
+#gmail
+		{padding-left: 15px;}
+
+#Images
+		{padding-left: 15px;}
+
+.appsetconnexion
+		{display: flex;}
+
+#apps{margin-right:20px;
+		margin-top:8px;}
+
+button{background-color: #1a73e8;
+		color:#fff;
+		border: none;
+		padding: 9px 23px;
+		font-weight: 500;
+		font-size: 14px;
+		border-radius: 4px;
+		margin-bottom: 15px;}
+
+
+.logo 
+		{display: flex;
+		flex-direction: column;
+		align-items: center;
+		height: 10em;}
+
+
+
+/*#apps img
+		{padding: 8px;}*/
+
+.right
+		{width:337px; 
+		height: 48px;
+		display: flex;
+		justify-content: 
+		space-around;}
+
+/*#connexion
+		{padding: 9px 23px;}*/
+
+.recherche
+		{display: flex;justify-content: center;}
+
+
+.barrerecherche{display: flex;
+		justify-content: space-between;
+		border: 1px solid #000;
+		height: 44px;
+		border-radius: 25px;
+		border-color: #dadce0;
+		margin-top: 20px;
+        }
+.barrerecherche:hover{box-shadow: 1.5px 1.5px 1.5px 1.5px #f2f2f2;}
+
+.barrerecherche input{width: 35em;
+						height: 3em;
+						border: none;}
+.barrerecherche img {width: 14px;
+					height: auto;
+					padding: 15px;}
+
+#centre
+		{display: flex;
+			padding-top: 18px;
+			justify-content: center;}
+#centre input
+		{background-color: #F8F9FA;
+		font-family: arial, sans serif;
+		color: #3c4043; 
+		border: none; 
+		height: 3em; 
+		padding: 6px;
+		margin-right: 20px;
+		border :1px solid #F8F9FA;
+		border-radius:4px;
+		padding: 0px 16px;}
+
+#blocvide{height: 10em;}
+
+div.france
+		{font-family:roboto; 
+		background-color: #F2F2F2; 
+		color: #70757A;
+		font-size: 15px;
+		clear: both;
+		padding: 15px;
+		border-bottom: 1px solid #dadce0;}
+
+
+div.barredubas
+		{font-family:roboto; 
+		font-size: 15px;
+		background-color: #F2F2F2; 
+		display: flex;
+    	flex-wrap: wrap;
+    	justify-content: space-between;}
+
+div.barredubas a
+		{text-decoration: none;
+		color: #70757A;
+		padding: 15px;}
+
+.footer
+		{font-family: roboto;
+		position: absolute; 
+		bottom: 0; 
+		width: 100%;}
+
+.blocgauche
+		{display: flex;
+    	flex-wrap: wrap;
+    	justify-content: space-between;}
+
+.blocmilieu
+		{display: flex;
+    	flex-wrap: wrap;
+    	justify-content: space-between;}
+
+
+.blocdroite
+		{display: flex;
+    	flex-wrap: wrap;
+    	justify-content: space-between;}
+
+.lienbas:hover{text-decoration: underline;
+			color: black;}
+
+
+
+
+
